@@ -11,11 +11,11 @@
 
 - 🌱 I’m currently learning **Java,Spring-boot,SQL,MYSQL**
 
-- 👨‍💻 All of my projects are available at [https://aditi101049.github.io/](https://aditi101049.github.io/)
+- 👨‍💻 All of my projects are available at [https://aditi.github.io/](https://aditi.github.io/)
 
 - 💬 Ask me about **Java**
 
-- 📫 How to reach me **aditianilpatil1599@gmail.com**
+- 📫 How to reach me **aditipati1@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1W3_SRosnTy9AsMOkAW1-dyLL1V2f0nQ5/view?usp=sharing](https://drive.google.com/file/d/1W3_SRosnTy9AsMOkAW1-dyLL1V2f0nQ5/view?usp=sharing)
 
