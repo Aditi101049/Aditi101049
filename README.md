@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **aditipati1@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1W3_SRosnTy9AsMOkAW1-dyLL1V2f0nQ5/view?usp=sharing](https://drive.google.com/file/d/1W3_SRosnTy9AsMOkAW1-dyLL1V2f0nQ5/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1W3_SRosnTy9AsMOL1V2f0nQ5/view?usp=sharing](https://drive.google.com/file/d/1W3_SRosnTy9AsMOkAWnQ5/view?usp=sharing)
 
 - ⚡ Fun fact **Something I can improve about myself is my software knowledge, which is why I currently take technology courses.**
 
